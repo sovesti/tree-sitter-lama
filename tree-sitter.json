@@ -1,0 +1,40 @@
+{
+  "$schema": "https://tree-sitter.github.io/tree-sitter/assets/schemas/config.schema.json",
+  "grammars": [
+    {
+      "name": "lama",
+      "camelcase": "Lama",
+      "title": "Lama",
+      "scope": "source.lama",
+      "file-types": ["lama"],
+      "injection-regex": "^lama$",
+      "class-name": "TreeSitterLama",
+      "highlights": "queries/highlights.scm",
+      "locals": "queries/locals.scm"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Lama grammar for tree-sitter",
+    "authors": [
+      {
+        "name": "Vasily Fedorov",
+        "email": "vasily.fedorov@arsysop.ru"
+      }
+    ],
+    "links": {
+      "repository": "https://github.com/sovesti/tree-sitter-lama"
+    }
+  },
+  "bindings": {
+    "c": false,
+    "go": false,
+    "java": false,
+    "node": true,
+    "python": false,
+    "rust": true,
+    "swift": false,
+    "zig": false
+  }
+}
