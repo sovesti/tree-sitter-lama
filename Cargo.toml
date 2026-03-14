@@ -2,7 +2,7 @@
 name = "tree-sitter-lama"
 description = "Lama grammar for tree-sitter"
 version = "1.0.0"
-authors = ["Vasily Fedorov <vasily.fedorov@arsysop.ru>"]
+authors = ["Vasily Fedorov <vasek.fedorov@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 keywords = ["incremental", "parsing", "tree-sitter", "lama"]

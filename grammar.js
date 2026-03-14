@@ -1,6 +1,6 @@
 /**
  * @file Lama grammar for tree-sitter
- * @author Vasily Fedorov <vasily.fedorov@arsysop.ru>
+ * @author Vasily Fedorov <vasek.fedorov@gmail.com>
  * @license MIT
  */
 
