@@ -11,7 +11,7 @@
   "license": "MIT",
   "author": {
     "name": "Vasily Fedorov",
-    "email": "vasily.fedorov@arsysop.ru",
+    "email": "vasek.fedorov@gmail.com",
     "url": ""
   },
   "main": "bindings/node",
