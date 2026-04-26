@@ -1,0 +1,41 @@
+==================
+Double quote character
+==================
+
+'"'
+
+---
+
+(compilation_unit
+  (scope_expression
+    (expression
+      (postfix_expression
+        (char)))))
+
+==================
+Line break character
+==================
+
+'\n'
+
+---
+
+(compilation_unit
+  (scope_expression
+    (expression
+      (postfix_expression
+        (char)))))
+
+==================
+Single quote character
+==================
+
+''''
+
+---
+
+(compilation_unit
+  (scope_expression
+    (expression
+      (postfix_expression
+        (char)))))
