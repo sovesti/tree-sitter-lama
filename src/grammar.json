@@ -2012,13 +2012,13 @@
       "type": "PATTERN",
       "value": "-?\\d+"
     },
+    "char": {
+      "type": "PATTERN",
+      "value": "'([^']|''|\\\\n|\\\\t)'"
+    },
     "string": {
       "type": "PATTERN",
       "value": "\"([^\\\"]|\"\")*\""
-    },
-    "char": {
-      "type": "PATTERN",
-      "value": "’([^’]|’’|\\n|\\t)’"
     },
     "boolean": {
       "type": "CHOICE",
